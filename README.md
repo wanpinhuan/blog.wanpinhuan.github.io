@@ -1,4 +1,4 @@
-# 清风 Blog :link: https://wanpinhuan.github.io/blog.wanpinhuan.github.io 
+# 清风 Blog :link: http://b.qfwl.tk/ 
 ### :page_facing_up: [1](http://b.qfwl.tk/) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4 
