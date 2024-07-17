@@ -1,4 +1,4 @@
-[![烈焰清风](https://img.qfwl.tk/file/180676d76f0bd14023166.jpg)](https://github.com/wanpinhuan)
+[![烈焰清风](https://img.qfwl.tk/file/13245185b6e2757d19aba.jpg)](https://github.com/wanpinhuan)
 
 # 清风 Blog :link: https://wanpinhuan.github.io/blog.wanpinhuan.github.io 
 ### :page_facing_up: [8](https://wanpinhuan.github.io/blog.wanpinhuan.github.io/tag.html) 
