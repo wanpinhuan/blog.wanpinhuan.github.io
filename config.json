@@ -1,16 +1,17 @@
 {
-    "title":"清风 Blog",
-    "subTitle":"清风Blog--轻松时别忘了努力，忙碌时别忘了梦想。",
-    "avatarUrl":"https://img.qfwl.tk/file/7cee1c144ca00977af6f5.png",
-    "email":"wanpinhuan@163.com",
-    "startSite":"06/20/2024",
-    "onePageListNum":15,
-    "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
-    "bottomText":"转载文章请注明出处，谢谢!",
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark",
-    "GMEEK_VERSION":"last"
+    "title"
+    "subTitle""清风Blog--轻松时别忘了努力，忙碌时别忘了梦想。"
+    "avatarUrl""https://img.qfwl.tk/file/7cee1c144ca00977af6f5.png"
+    "email""wanpinhuan@163.com"
+    "startSite""06/20/2024"
+15
+    "commentLabelColor""#006b75"
+[]
+    "i18n""CN"
+    "bottomText""转载文章请注明出处，谢谢!"
+    "themeMode""manual"
+    "dayTheme""light"
+    "nightTheme""dark"
+1
+    "GMEEK_VERSION""last"
 }
